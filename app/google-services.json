@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "265198469479",
+    "project_id": "edmath-c4675",
+    "storage_bucket": "edmath-c4675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265198469479:android:b32614e095ecdf8bb42fc2",
+        "android_client_info": {
+          "package_name": "com.example.edmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265198469479-noa3tuvhkknkt39i01aqcosvnoj1tfgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyIoP--J8SLEvJs-ubPr26UIL6XZG41I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265198469479-noa3tuvhkknkt39i01aqcosvnoj1tfgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265198469479:android:9a8731d53463ab37b42fc2",
+        "android_client_info": {
+          "package_name": "com.example.edmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265198469479-noa3tuvhkknkt39i01aqcosvnoj1tfgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyIoP--J8SLEvJs-ubPr26UIL6XZG41I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265198469479-noa3tuvhkknkt39i01aqcosvnoj1tfgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
